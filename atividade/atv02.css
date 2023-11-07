@@ -1,0 +1,38 @@
+
+#d1{
+    background-color: red;
+    color: white;
+    height: 260px;
+    width: 1250px;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 40px;
+    
+}
+#d2{
+    background-color: yellow;
+    color: white;
+    height: 260px;
+    width: 1250px;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 30px;
+}
+#d3{
+    background-color: black;
+    color: white;
+    height: 260px;
+    width: 1250px;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 30px;
+}
+#d4{
+    background-color: green;
+    color: white;
+    height: 260px;
+    width: 1250px;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 30px;
+}
