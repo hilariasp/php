@@ -51,11 +51,43 @@ foreach ($aluno as $key5 => $value5) {
     echo "$value5 <br> ";
 }
 
+echo "<br>";
+
+$aluno = array("nome"=>"Hilário", "idade"=>17, "end"=>15, "cidade"=> "Guanambi", "estado"=> "BA", "CPF"=> 1568 );
+foreach ($aluno as $key5 => $value5) {
+    echo "$key5: "; 
+    echo "$value5 <br> ";
+}
+
+echo "<br>";
+
+$aluno = array("nome"=>"Diamili", "idade"=>17, "end"=>18, "cidade"=> "Guanambi", "estado"=> "BA", "CPF"=> 1780 );
+foreach ($aluno as $key5 => $value5) {
+    echo "$key5: "; 
+    echo "$value5 <br> ";
+}
+
 
 echo "<br>";
 
 echo"<p>Exemplo Professor</p> <br>";
-$professor = array("nome"=>"Fabio", "idade"=> 47, "end"=> 123, "cidade"=> "Guanambi", "estado"=> "BA", "CPF"=> 1234 );
+$professor = array("nome"=>"Fábio", "idade"=>47, "end"=>1590, "cidade"=> "Guanambi", "estado"=> "BA", "CPF"=> 1345);
+foreach ($professor as $key6 => $value6) {
+    echo "$key6: "; 
+    echo "$value6 <br> ";
+}
+
+echo "<br>";
+
+$professor = array("nome"=>"Eber", "idade"=>35, "end"=>1350, "cidade"=> "Guanambi", "estado"=> "BA", "CPF"=> 1545);
+foreach ($professor as $key6 => $value6) {
+    echo "$key6: "; 
+    echo "$value6 <br> ";
+}
+
+echo "<br>";
+
+$professor = array("nome"=>"WQ", "idade"=>55, "end"=>1534, "cidade"=> "Guanambi", "estado"=> "BA", "CPF"=> 1980);
 foreach ($professor as $key6 => $value6) {
     echo "$key6: "; 
     echo "$value6 <br> ";
@@ -63,3 +95,4 @@ foreach ($professor as $key6 => $value6) {
 ?> 
 </body>
 </html>
+
