@@ -64,5 +64,11 @@ foreach ($professor3 as $key => $value) {
     echo "$key: "; 
     echo "$value <br> ";
 }
+echo"Imprimir o aluno com a chave 4 <br>";
+$aluno = array("Diamili", "Guilherme A", "Hilária", "Hilário", "Kailla, Sarah");
+
+for($a=3; $a<4; $a++) {    
+    echo "$aluno[$a] <br>";
+    }
 
 ?>
