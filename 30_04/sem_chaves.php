@@ -50,6 +50,16 @@ foreach ($aluno as $key5 => $value5) {
     echo "$key5: "; 
     echo "$value5 <br> ";
 }
+
+
+echo "<br>";
+
+echo"<p>Exemplo Professor</p> <br>";
+$professor = array("nome"=>"Fabio", "idade"=> 47, "end"=> 123, "cidade"=> "Guanambi", "estado"=> "BA", "CPF"=> 1234 );
+foreach ($professor as $key6 => $value6) {
+    echo "$key6: "; 
+    echo "$value6 <br> ";
+}
 ?> 
 </body>
 </html>
