@@ -1,0 +1,30 @@
+body{
+    background-color: #b8b8ff;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #ffd8be;
+    text-align: center;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #ffeedd;
+}
+pre{
+    background-color: #f8f7ff;
+}
+th{
+    background-color: #ffd8be;
+    border: solid 1px black;
+}
+td{
+    background-color: #ffeedd;
+    border: solid 1px black;
+}
+.table1{
+    border-collapse: collapse;
+    width: 100%;
+}
+.number{
+    text-align: center;
+}
